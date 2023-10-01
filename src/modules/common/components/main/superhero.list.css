@@ -1,0 +1,15 @@
+.carousel-arrow {
+    visibility: hidden;
+}
+.todoCard {
+    padding: 10px;
+}
+.descContainer {
+    margin: 10px 20px;
+}
+.listWrapper {
+    max-width: 600px;
+}
+.superheroesPagination {
+    margin: 20px 0px;
+}

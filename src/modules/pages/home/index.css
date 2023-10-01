@@ -1,0 +1,14 @@
+.detailsContainer {
+    margin: 0px 100px;
+    max-width: 2560px;
+}
+
+.MuiTableCell-root {
+    font-size: 16px;
+}
+
+@media screen and (max-width: 900px) {
+    .detailsContainer {
+        margin: 20px;
+    }
+  }

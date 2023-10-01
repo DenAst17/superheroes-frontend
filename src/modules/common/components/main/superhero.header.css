@@ -1,0 +1,23 @@
+.bottomHeader {
+    display: flex;
+    justify-content: space-between;
+}
+.tabsWrapper {
+    display: flex;
+    align-items: center;
+}
+.buttonAndSearch {
+    display: flex;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 768px) {
+    .bottomHeader {
+        display: flex;
+        height: auto;
+        flex-direction: column;
+    }
+    .buttonAndSearch {
+        justify-content: start;
+    }
+  }
