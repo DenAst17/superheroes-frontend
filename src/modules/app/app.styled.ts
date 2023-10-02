@@ -37,7 +37,6 @@ export const GlobalStyles = createGlobalStyle`
     scroll-behavior: smooth;
     text-rendering: optimizeSpeed;
     line-height: 1.5;
-    background-color: ${COLORS.white};
   }
 
   ul[class],
